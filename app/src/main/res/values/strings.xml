@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">صحينى لما الكهربا ترجع</string>
+    <string name="on">On</string>
+    <string name="off">off</string>
+    <string name="help">1-Make sure the charger is connected correctly "\n"
+                        2-Press the ON button "\n"
+                        3-this app will weak you up when electric on
+
+    </string>
+</resources>
